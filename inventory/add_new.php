@@ -133,7 +133,7 @@ if(isset($_POST["submit"])){
                 <div class="row mb-4">
 
                     <div class="col">
-                        <label class="form-label">Remarks:</label>
+                        <label class="form-label">Remark(s):</label>
                         <input type="text" class="form-control" name="remarks" placeholder="Lorem ipsum...">
                     </div>
 
